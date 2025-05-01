@@ -1,0 +1,3 @@
+Model,Dataset,Accuracy
+TabPFN,Breast Cancer,0.9766
+TabPFN,Adult Income,0.8553
